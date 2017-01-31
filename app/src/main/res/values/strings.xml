@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Dummy Service</string>
+    <string name="start_bound_service">Start Bound Service</string>
+    <string name="start_internet_service">Start Internet Service</string>
+    <string name="start_service">Start Service</string>
+    <string name="edt_type_sth">Type Something...</string>
+    <string name="nothing_to_be_shown">[Nothing to be shown]</string>
 </resources>
